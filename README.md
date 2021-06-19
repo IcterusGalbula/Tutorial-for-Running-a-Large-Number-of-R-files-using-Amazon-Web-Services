@@ -9,12 +9,21 @@ by: IcterusGalbula (Mark W. Miller)
 This tutorial comes complete with data files, R files and a MSWord document containing detailed instructions on:
 
 Creating an AWS account
+
 Installing R on AWS
+
 Installing R packages on AWS
+
 Using parallel processing
+
 Installing PuTTY
+
 Installing FileZilla
+
 Using Spot Instances
+
 Running R
+
 Retrieving model results
+
 Results are included for comparison
